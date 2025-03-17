@@ -1,4 +1,4 @@
-#  Speech Assistant with Twilio Voice and the OpenAI Realtime API (Python) 
+#  Naived AI - onboard your customers using automated voice ai agent 24/7 (Python) 
 
 **This is a duplicated repo, original repo here - https://github.com/twilio-samples/speech-assistant-openai-realtime-api-python.
 
