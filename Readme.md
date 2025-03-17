@@ -1,4 +1,4 @@
-#  Speech Assistant with Twilio Voice and the OpenAI Realtime API (Python)
+#  Speech Assistant with Twilio Voice and the OpenAI Realtime API (Python) - this is a duplicated repo, original repo here - https://github.com/twilio-samples/speech-assistant-openai-realtime-api-python. *I stopped working on this repo because found that a handful of very good voice ai agent already exists, like Retell.ai and VAPI.
 
 This application demonstrates how to use Python, [Twilio Voice](https://www.twilio.com/docs/voice) and [Media Streams](https://www.twilio.com/docs/voice/media-streams), and [OpenAI's Realtime API](https://platform.openai.com/docs/) to make a phone call to speak with an AI Assistant. 
 
